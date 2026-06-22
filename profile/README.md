@@ -18,4 +18,5 @@
 
 🏆 Awards will be made to individuals who demonstrate academic achievement, are committed to a career that embraces the application of digital methods and computational approaches, and show potential to make meaningful contributions in the domain of digital cultural heritage.
 
+### Questions?
 ❔ If you have questions please reach out to Gillian Macdonald at: macdo313@msu.edu
