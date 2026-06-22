@@ -6,9 +6,12 @@
 
 ♦️ To support their work, fellows will receive a stipend of $2500 per semester. While applicants may have previous technical experience, such experience is not required to apply. The focus of the Fellowship Program is the application of digital methods and computational approaches within cultural heritage. 
 
-🌈 How can you get involved? You can find more information and the application here: [https://leadr.msu.edu/fellowships/](https://leadr.msu.edu/fellowships/)
+### How can you get involved? 
 
-👩‍💻 Eligibility - In order to be eligible to apply for a Computational Cultural Heritage Graduate Fellowship, applicants:
+🌈 You can find more information and the application here: [https://leadr.msu.edu/fellowships/](https://leadr.msu.edu/fellowships/)
+
+### Eligibility 
+👩‍💻 In order to be eligible to apply for a Computational Cultural Heritage Graduate Fellowship, applicants:
 - must be enrolled and be in good academic standing in a graduate program at Michigan State University (either at the Masters or Doctoral level). A primary focus of their work must be cultural heritage (as broadly defined above).
 - must be enrolled (and remain enrolled) full-time in the year for which they are applying.
 - must demonstrate positive progress in their graduate programs.
