@@ -1,12 +1,16 @@
-## Hi there 👋
+## Computational Cultural Heritage 
 
-<!--
+### Program Details
 
-**Here are some ideas to get you started:**
+📌 The Computational Cultural Heritage (CCH) Graduate Fellowship Program offers MSU graduate students the skills to creatively and thoughtfully apply digital methods and computational approaches to cultural heritage collections, materials, data, questions, and challenges. While the fellowship, which spans an academic year, involves workshops, collaborative development work, and technical experimentation, the overall organizational focus of the fellowship is the development (either individually or collaboratively) of a significant and innovative digital cultural heritage project. Projects might include (but are certainly not limited to) a mobile application, a digital exhibit, a digital archive, or a collaborative digital publication. The project must also have a significant public component.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 How can you get involved? You can find more information and the application here: [https://leadr.msu.edu/fellowships/](https://leadr.msu.edu/fellowships/)
+
+👩‍💻 Eligibility - In order to be eligible to apply for a Computational Cultural Heritage Graduate Fellowship, applicants:
+- must be enrolled and be in good academic standing in a graduate program at Michigan State University (either at the Masters or Doctoral level). A primary focus of their work must be cultural heritage (as broadly defined above).
+- must be enrolled (and remain enrolled) full-time in the year for which they are applying.
+- must demonstrate positive progress in their graduate programs.
+
+Awards will be made to individuals who demonstrate academic achievement, are committed to a career that embraces the application of digital methods and computational approaches, and show potential to make meaningful contributions in the domain of digital cultural heritage.
+
+❔ If you have questions please reach out to Gillian Macdonald at: macdo313@msu.edu
