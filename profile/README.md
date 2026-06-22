@@ -11,8 +11,6 @@ In its focus, the program leverages the definition of cultural heritage commonly
 
 The fellowship is interested in both tangible and intangible cultural heritage. Students whose work or interest in the fellowship is driven by this particular framing of cultural heritage are encouraged to apply.
 
-♦️ To support their work, fellows will receive a stipend of $2500 per semester. While applicants may have previous technical experience, such experience is not required to apply. The focus of the Fellowship Program is the application of digital methods and computational approaches within cultural heritage. 
-
 ### How can you get involved? 
 
 🌈 You can find more information and the application here: [https://leadr.msu.edu/fellowships/](https://leadr.msu.edu/fellowships/)
