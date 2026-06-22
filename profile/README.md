@@ -4,6 +4,13 @@
 
 📌 The Computational Cultural Heritage (CCH) Graduate Fellowship Program offers MSU graduate students the skills to creatively and thoughtfully apply digital methods and computational approaches to cultural heritage collections, materials, data, questions, and challenges. While the fellowship, which spans an academic year, involves workshops, collaborative development work, and technical experimentation, the overall organizational focus of the fellowship is the development (either individually or collaboratively) of a significant and innovative digital cultural heritage project. Projects might include (but are certainly not limited to) a mobile application, a digital exhibit, a digital archive, or a collaborative digital publication. The project must also have a significant public component.
 
+### Cultural Heritage
+In its focus, the program leverages the definition of cultural heritage commonly used by UNESCO:
+
+"Material culture (artifacts and objects, monuments, structures, landscapes, etc) and intangible cultural attributes (oral traditions, language, ritual, social practices, traditional knowledge performing arts, cuisine, etc) of a group, community, or society that are transmitted intergenerationally, used and maintained in the present, and preserved for future generations."
+
+The fellowship is interested in both tangible and intangible cultural heritage. Students whose work or interest in the fellowship is driven by this particular framing of cultural heritage are encouraged to apply.
+
 ♦️ To support their work, fellows will receive a stipend of $2500 per semester. While applicants may have previous technical experience, such experience is not required to apply. The focus of the Fellowship Program is the application of digital methods and computational approaches within cultural heritage. 
 
 ### How can you get involved? 
